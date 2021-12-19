@@ -32,6 +32,11 @@ h1 {
   transform: translateX(-50%);
 }
 
+button:focus {
+  outline: none;
+}
+
+
 .row {
   display: flex;
   justify-content: space-between;
